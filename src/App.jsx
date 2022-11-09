@@ -33,7 +33,7 @@ function App() {
       setIsLoading(false);
       setIssetImage(true);
     } else {
-      console.log(response);
+      console.log(openai);
     }
   };
 
